@@ -31,8 +31,8 @@ The web page is asimple portfolio built with HTML and CSS. It is responsive for 
 
 - The URL of the deployed application.
 
-- https://skirkzzz.github.io/week-7-Portfolio_Page/
-- https://github.com/Skirkzzz/week-7-Portfolio_Page
+- https://skirkzzz.github.io/week-8-Portfolio2/
+- https://github.com/Skirkzzz/week-8-Portfolio2
 
 ## Git hub updates
 
